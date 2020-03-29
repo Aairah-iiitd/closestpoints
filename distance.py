@@ -1,11 +1,3 @@
-"""
-CSE101: Introduction to Programming
-Assignment 3
-
-Name        :Aairah Bari
-Roll-no     :2019003
-"""
-
 
 import math
 import random
